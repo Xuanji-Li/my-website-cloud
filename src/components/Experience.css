@@ -1,0 +1,9 @@
+.content{
+    border-bottom:  1px solid #eee;
+}
+.title{
+    color: #25c2a0;
+}
+.smTitle{
+    display: block;
+}

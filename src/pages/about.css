@@ -1,0 +1,41 @@
+.experience-container {
+  display: flex;
+  margin-top: 50px;
+}
+@media screen and (max-width: 600px) {
+  .experience-container {
+    display: block;
+    margin: 20px;
+  }
+}
+.underlineTitle {
+  font-size: 24px;
+  height: 38px;
+  border-bottom: 4px solid #0f9d58;
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+}
+.mx {
+  margin: 0 20px;
+}
+.bodyAbout {
+  font-size: 30px;
+  margin-top: 20px;
+  text-align: center;
+}
+.bodyAboutDetail {
+  font-size: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.experience-title {
+  font-size: 30px;
+  border-bottom: 4px solid #ffb84e;
+  width: 160px;
+  text-align: center;
+  height: 40px;
+  margin-right: 40px;
+  margin-left: 250px;
+}

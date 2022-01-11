@@ -1,5 +1,5 @@
 ---
-title: React
+title: React note
 ---
 
 ## 1 jsx

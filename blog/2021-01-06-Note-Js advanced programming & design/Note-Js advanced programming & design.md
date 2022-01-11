@@ -1,5 +1,5 @@
 ---
-title: Js-note-1
+title: Js advanced programming & design
 ---
 # javascript note
 

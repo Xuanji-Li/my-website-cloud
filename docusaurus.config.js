@@ -82,7 +82,8 @@ const config = {
             position:'right',
           },
           {
-            href: 'http://manny2019.com.s3-website-us-east-1.amazonaws.com/pdf/resume4.PDF',
+            href: 'http://manny2019.com.s3-website-us-east-1.amazonaws.com/pdf/Resume4.PDF',
+            
             label: "Resume",
             position: "right",
           },

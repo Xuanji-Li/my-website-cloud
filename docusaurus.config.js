@@ -9,13 +9,13 @@ const config = {
   title: 'Hello World',
   tagline: 'I\'m Manny Li',
   url: 'https://your-docusaurus-test-site.com',
-  
+  projectName: 'my-website-cloud', // Usually your repo name.
+  organizationName: 'Xuanji-Li', // Usually your GitHub org/user name.
+
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/dog.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
   // plugins: ["posthog-docusaurus"],
   presets: [
     [
@@ -81,11 +81,11 @@ const config = {
             href:'https://www.linkedin.com/in/manny-li-b6b263220/',
             position:'right',
           },
-          {
-            href: '../pdf/resume.PDF',
-            label: "Resume",
-            position: "right",
-          },
+          // {
+          //   href: '../pdf/resume.PDF',
+          //   label: "Resume",
+          //   position: "right",
+          // },
         ],
       },
       footer: {

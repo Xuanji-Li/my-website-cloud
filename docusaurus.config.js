@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hello World',
   tagline: 'I\'m Manny Li',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://Xuanji-Li.github.io',
   projectName: 'my-website-cloud', // Usually your repo name.
   organizationName: 'Xuanji-Li', // Usually your GitHub org/user name.
 
@@ -81,11 +81,11 @@ const config = {
             href:'https://www.linkedin.com/in/manny-li-b6b263220/',
             position:'right',
           },
-          // {
-          //   href: '../pdf/resume.PDF',
-          //   label: "Resume",
-          //   position: "right",
-          // },
+          {
+            href: 'http://manny-website.s3-website-us-east-1.amazonaws.com/pdf/resume4.PDF',
+            label: "Resume",
+            position: "right",
+          },
         ],
       },
       footer: {

@@ -8,7 +8,8 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Knowledgeable Front End Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality
+        Knowledgeable Front End Developer adept at creating successful websites that meet customer needs. 
+        {/* Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality */}
       </>
     ),
   },
@@ -26,7 +27,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Recently graduated from University of Adelaide, Accomplished product manager Intern during master degree program with hands-on experience.
+        Graduated from University of Adelaide.
         Detail-oriented with success supporting team and inventory management.
       </>
     ),

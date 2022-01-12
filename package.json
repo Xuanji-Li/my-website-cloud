@@ -10,7 +10,7 @@
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "publish-gh-pages": "GIT_USER=Xuanji-Li CURRENT_BRANCH=master USE_SSH=true",
+    "publish-gh-pages": "GIT_USER=Xuanji-Li CURRENT_BRANCH=master   USE_SSH=true",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
